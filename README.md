@@ -4,7 +4,7 @@ Jogo educativo para a ação de extensão **Tecnologia e Informação nas Redes 
 
 ## Proposta
 
-O projeto transforma a proposta em uma experiência de missão, com mapa, escolhas, XP, níveis, distintivos e feedback imediato. O conteúdo integra três trilhas:
+O projeto transforma a proposta em uma experiência de missão, com mapa de jornada, escolha de avatar, capítulos, XP, níveis, habilidades e feedback imediato. O conteúdo integra três trilhas:
 
 - fake news e verificação antes do compartilhamento;
 - influência dos algoritmos, emoções e mensagens persuasivas;
@@ -36,6 +36,9 @@ O layout é responsivo, usa HTML semântico, foco visível, textos alternativos 
 - Níveis e contagem de estrelas por trilhas concluídas.
 - Distintivos visuais para cada tema e conquista final.
 - Barra de progresso e feedback imediato após cada escolha.
+- Quatro avatares com nomes e identidade de jogador.
+- Linguagem de capítulo e habilidade para dar sentido à progressão.
+- Tela inicial orientada para descoberta, escolha e retorno à missão.
 
 ## Próximas melhorias
 
