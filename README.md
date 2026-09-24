@@ -31,14 +31,16 @@ O layout é responsivo, usa HTML semântico, foco visível, textos alternativos 
 
 ## Elementos de gamificação
 
-- Missões com situações cotidianas e três alternativas.
-- XP diferente para respostas corretas e respostas que geram reflexão.
+- Missões com mecânicas diferentes: investigação de publicação, organização de feed e montagem de proteção.
+- XP por descoberta, escolha e conclusão, sem transformar a experiência em um simples questionário.
 - Níveis e contagem de estrelas por trilhas concluídas.
 - Distintivos visuais para cada tema e conquista final.
 - Barra de progresso e feedback imediato após cada escolha.
 - Quatro avatares com nomes e identidade de jogador.
 - Linguagem de capítulo e habilidade para dar sentido à progressão.
 - Tela inicial orientada para descoberta, escolha e retorno à missão.
+- Menu de navegação com introdução narrativa e retorno ao mapa.
+- Cards interativos, pistas clicáveis, feed visual e checklist de defesa.
 
 ## Próximas melhorias
 
